@@ -1,7 +1,7 @@
 # Aktie-arbitrage
 
 
-| Aktie/Variabler| 1 gräns utan courtage | 1,005 gräns utan courtage | 1,01 gräns utan courtage | 1 gräns 0,0006% courtage | 1,005 gräns utan courtage | 1,01 gräns utan courtage |
+| Aktie/Variabler| 1 gräns utan courtage | 1,005 gräns utan courtage | 1,01 gräns utan courtage |
 | --- | --- | --- | --- |
 | Tele2 | 5,03 (3,72) | 3,86 (3,26) | 2,23 (2,08) |
 | Klövern | 3,32 (2,68) | 2,36 (2,11) | 1,90 (1,79) |
