@@ -18,9 +18,9 @@ Först identifierades vilken av aktie typen som generellt var billigast (B) och 
 
 ## Resultat
 
-Tabellen nedan visar 
+Tabellen nedan visar resultaten från aktiearbitragen. Radnamnen anger vilket aktie det gäller och kolumnnamnen anger vilken gräns som använts för när dyra aktien ska bytas till billiga aktien. Gränsen anger att den dyra aktien måste vara mer än X% dyrare än billiga aktien för att bytas. Värdena i cellerna anger hur många gånger fler aktier man skulle haft 2020-08-26 jämfört med 2016-08-26, värdet i parantes tar hänsyn till 0,06% courtage.
 
-| Aktie/Variabler| 0% gräns utan courtage | 0,5% gräns utan courtage | 1% gräns utan courtage |
+| Aktie/Variabler| 0% gräns | 0,5% gräns | 1% gräns |
 | --- | --- | --- | --- |
 | Tele2 | **5,03** (3,72) | **5,11** (4,13) | **2,92** (2,61) |
 | Klövern | **3,32** (2,68) | **3,31** (2,76) | **2,61** (2,31) |
